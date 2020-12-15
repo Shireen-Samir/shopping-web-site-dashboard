@@ -1,0 +1,64 @@
+﻿@model task.Models.RegisterViewModel
+@{
+    ViewBag.Title = "Register";
+}
+
+
+        <h2 style="text-align: center;color: #e25898;margin-top:8%">@ViewBag.Title.</h2>
+
+        @using (Html.BeginForm("Register", "Account", FormMethod.Post, new { @class = "form-horizontal", role = "form", @style = "margin-left: 20%;" }))
+        {
+            @Html.AntiForgeryToken()
+            <h4>Create a new account.</h4>
+            <hr style="width: 75%;margin-bottom: 34px;" />
+
+            @Html.ValidationSummary("", new { @class = "text-danger" })
+            <div class="form-group" style="height:50px">
+                @Html.LabelFor(m => m.Name, new { @class = "col-md-2 control-label" ,@style="color: #e25898;"})
+                <div class="col-md-10">
+                    @Html.TextBoxFor(m => m.Name, new { @class = "form-control", @style = "height: 35px;" })
+                </div>
+            </div>
+            <div class="form-group" style="height:50px">
+                @Html.LabelFor(m => m.Age, new { @class = "col-md-2 control-label",@style="color: #e25898;" })
+                <div class="col-md-10">
+                    @Html.TextBoxFor(m => m.Age, new { @class = "form-control", @style = "height: 35px;" })
+                </div>
+            </div>
+            <div class="form-group" style="height:50px">
+                @Html.LabelFor(m => m.PhoneNumber, new { @class = "col-md-2 control-label",@style="color: #e25898;" })
+                <div class="col-md-10">
+                    @Html.TextBoxFor(m => m.PhoneNumber, new { @class = "form-control", @style = "height: 35px;" })
+                </div>
+            </div>
+            <div class="form-group" style="height:50px">
+                @Html.LabelFor(m => m.Email, new { @class = "col-md-2 control-label",@style="color: #e25898;" })
+                <div class="col-md-10">
+                    @Html.TextBoxFor(m => m.Email, new { @class = "form-control", @style = "height: 35px;" })
+                </div>
+            </div>
+
+            <div class="form-group" style="height:50px">
+                @Html.LabelFor(m => m.Password, new { @class = "col-md-2 control-label",@style="color: #e25898;" })
+                <div class="col-md-10">
+                    @Html.PasswordFor(m => m.Password, new { @class = "form-control", @style = "height: 35px;" })
+                </div>
+            </div>
+            <div class="form-group" style="height:50px">
+                @Html.LabelFor(m => m.ConfirmPassword, new { @class = "col-md-2 control-label",@style="color: #e25898;" })
+                <div class="col-md-10">
+                    @Html.PasswordFor(m => m.ConfirmPassword, new { @class = "form-control", @style = "height: 35px;" })
+                </div>
+            </div>
+            <div class="form-group" style="height:50px">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" class="btn btn-default" value="Register"  style="width: 100px; background-color: #e25898;color: white;
+                     height: 35px; border-radius: 50px; margin-top: 20px;font-size: 14px;"/>
+                </div>
+            </div>
+        }
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

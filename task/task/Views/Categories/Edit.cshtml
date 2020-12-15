@@ -1,0 +1,63 @@
+﻿@model task.Models.Category
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2 style="text-align: center;color: #e25898;margin-top:8%">Edit</h2>
+
+<div style="margin-left: 20%;">
+    @using (Html.BeginForm("Edit","Categories",null,FormMethod.Post, new{ enctype = "multipart/form-data" }))
+
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-horizontal">
+            <h4>Category</h4>
+            <hr style="width: 75%;margin-bottom: 34px;" />
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+            @Html.HiddenFor(model => model.categoryid)
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.categoryname, htmlAttributes: new { @class = "control-label col-md-2", @style = "color: #e25898;" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.categoryname, new { htmlAttributes = new { @class = "form-control", @style = "height: 35px;" } })
+                    @Html.ValidationMessageFor(model => model.categoryname, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.categorydescription, htmlAttributes: new { @class = "control-label col-md-2", @style = "color: #e25898;" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.categorydescription, new { htmlAttributes = new { @class = "form-control", @style = "height: 50px ; width: 280px; " } })
+                    @Html.ValidationMessageFor(model => model.categorydescription, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(model => model.categorypicture, htmlAttributes: new { @class = "control-label col-md-2", @style = "color: #e25898;" })
+                <div class="col-md-10">
+                    @*@Html.TextBoxFor(model => model.categorypicture,new {type="file",name="pic",htmlAttributes = new { @class = "form-control", @style = "height: 35px;" } })*@
+                    <input type="file" name="pic" id="pic" style="height: 35px;" class="form-control" />
+                    @Html.ValidationMessageFor(model => model.categorydescription, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Save" class="btn btn-default" style="width: 100px; background-color: #e25898;color: white;
+                     height: 35px; border-radius: 50px; margin-top: 20px;font-size: 14px;" />
+                </div>
+            </div>
+        </div>
+    }
+
+    <p>
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+
+   
+
+    @section Scripts {
+        @Scripts.Render("~/bundles/jqueryval")
+    }
+</div>

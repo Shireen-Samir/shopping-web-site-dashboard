@@ -1,0 +1,43 @@
+﻿@model task.Models.Category
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2  style="text-align: center;color: #e25898;margin-top:8%" >Details</h2>
+
+<div style="margin-left: 20%;">
+    <h4>Category</h4>
+    <hr style="width: 75%;margin-bottom: 34px;" />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.LabelFor(model => model.categoryname, htmlAttributes: new { @style = "color: #e25898;" })
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.categoryname)
+        </dd>
+
+        <dt>
+            @Html.LabelFor(model => model.categorydescription, htmlAttributes: new { @style = "color: #e25898;" })
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.categorydescription)
+        </dd>
+
+        <dt>
+            @Html.LabelFor(model => model.categorypicture, htmlAttributes: new { @style = "color: #e25898;" })
+        </dt>
+
+        <dd>
+            <img src="~/images/category/@Model.categorypicture" style=" width: 300px;height: 300px;" />
+        </dd>
+    </dl>
+
+    <p>
+        @Html.ActionLink("Edit", "Edit", new { id = Model.categoryid }) |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+</div>
+

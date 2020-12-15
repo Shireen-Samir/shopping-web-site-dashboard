@@ -1,0 +1,220 @@
+E:\eman\mvc\task\task\bin\task.dll.config
+E:\eman\mvc\task\task\bin\task.dll
+E:\eman\mvc\task\task\bin\task.pdb
+E:\eman\mvc\task\task\bin\roslyn\csc.exe
+E:\eman\mvc\task\task\bin\roslyn\csc.exe.config
+E:\eman\mvc\task\task\bin\roslyn\csc.rsp
+E:\eman\mvc\task\task\bin\roslyn\csi.exe
+E:\eman\mvc\task\task\bin\roslyn\csi.exe.config
+E:\eman\mvc\task\task\bin\roslyn\csi.rsp
+E:\eman\mvc\task\task\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\eman\mvc\task\task\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\eman\mvc\task\task\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\eman\mvc\task\task\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\eman\mvc\task\task\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\eman\mvc\task\task\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\eman\mvc\task\task\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\eman\mvc\task\task\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\eman\mvc\task\task\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\eman\mvc\task\task\bin\roslyn\Microsoft.Managed.Core.targets
+E:\eman\mvc\task\task\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\eman\mvc\task\task\bin\roslyn\System.AppContext.dll
+E:\eman\mvc\task\task\bin\roslyn\System.Collections.Immutable.dll
+E:\eman\mvc\task\task\bin\roslyn\System.Console.dll
+E:\eman\mvc\task\task\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\eman\mvc\task\task\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\eman\mvc\task\task\bin\roslyn\System.IO.Compression.dll
+E:\eman\mvc\task\task\bin\roslyn\System.IO.FileSystem.dll
+E:\eman\mvc\task\task\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\eman\mvc\task\task\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\eman\mvc\task\task\bin\roslyn\System.IO.Pipes.dll
+E:\eman\mvc\task\task\bin\roslyn\System.Reflection.Metadata.dll
+E:\eman\mvc\task\task\bin\roslyn\System.Security.AccessControl.dll
+E:\eman\mvc\task\task\bin\roslyn\System.Security.Claims.dll
+E:\eman\mvc\task\task\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\eman\mvc\task\task\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\eman\mvc\task\task\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\eman\mvc\task\task\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\eman\mvc\task\task\bin\roslyn\System.Security.Principal.Windows.dll
+E:\eman\mvc\task\task\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\eman\mvc\task\task\bin\roslyn\System.ValueTuple.dll
+E:\eman\mvc\task\task\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\eman\mvc\task\task\bin\roslyn\System.Xml.XmlDocument.dll
+E:\eman\mvc\task\task\bin\roslyn\System.Xml.XPath.dll
+E:\eman\mvc\task\task\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\eman\mvc\task\task\bin\roslyn\vbc.exe
+E:\eman\mvc\task\task\bin\roslyn\vbc.exe.config
+E:\eman\mvc\task\task\bin\roslyn\vbc.rsp
+E:\eman\mvc\task\task\bin\roslyn\VBCSCompiler.exe
+E:\eman\mvc\task\task\bin\roslyn\VBCSCompiler.exe.config
+E:\eman\mvc\task\task\bin\Antlr3.Runtime.dll
+E:\eman\mvc\task\task\bin\EntityFramework.dll
+E:\eman\mvc\task\task\bin\EntityFramework.SqlServer.dll
+E:\eman\mvc\task\task\bin\Microsoft.AspNet.Identity.Core.dll
+E:\eman\mvc\task\task\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\eman\mvc\task\task\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\eman\mvc\task\task\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\eman\mvc\task\task\bin\Microsoft.Owin.dll
+E:\eman\mvc\task\task\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\eman\mvc\task\task\bin\Microsoft.Owin.Security.Cookies.dll
+E:\eman\mvc\task\task\bin\Microsoft.Owin.Security.dll
+E:\eman\mvc\task\task\bin\Microsoft.Owin.Security.Facebook.dll
+E:\eman\mvc\task\task\bin\Microsoft.Owin.Security.Google.dll
+E:\eman\mvc\task\task\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\eman\mvc\task\task\bin\Microsoft.Owin.Security.OAuth.dll
+E:\eman\mvc\task\task\bin\Microsoft.Owin.Security.Twitter.dll
+E:\eman\mvc\task\task\bin\Microsoft.Web.Infrastructure.dll
+E:\eman\mvc\task\task\bin\Newtonsoft.Json.dll
+E:\eman\mvc\task\task\bin\Owin.dll
+E:\eman\mvc\task\task\bin\System.Web.Helpers.dll
+E:\eman\mvc\task\task\bin\System.Web.Mvc.dll
+E:\eman\mvc\task\task\bin\System.Web.Optimization.dll
+E:\eman\mvc\task\task\bin\System.Web.Razor.dll
+E:\eman\mvc\task\task\bin\System.Web.WebPages.Deployment.dll
+E:\eman\mvc\task\task\bin\System.Web.WebPages.dll
+E:\eman\mvc\task\task\bin\System.Web.WebPages.Razor.dll
+E:\eman\mvc\task\task\bin\WebGrease.dll
+E:\eman\mvc\task\task\bin\System.Web.Helpers.xml
+E:\eman\mvc\task\task\bin\System.Web.Mvc.xml
+E:\eman\mvc\task\task\bin\System.Web.Optimization.xml
+E:\eman\mvc\task\task\bin\System.Web.Razor.xml
+E:\eman\mvc\task\task\bin\System.Web.WebPages.xml
+E:\eman\mvc\task\task\bin\System.Web.WebPages.Deployment.xml
+E:\eman\mvc\task\task\bin\System.Web.WebPages.Razor.xml
+E:\eman\mvc\task\task\bin\Newtonsoft.Json.xml
+E:\eman\mvc\task\task\bin\Antlr3.Runtime.pdb
+E:\eman\mvc\task\task\bin\EntityFramework.xml
+E:\eman\mvc\task\task\bin\EntityFramework.SqlServer.xml
+E:\eman\mvc\task\task\bin\Microsoft.AspNet.Identity.Core.xml
+E:\eman\mvc\task\task\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\eman\mvc\task\task\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\eman\mvc\task\task\bin\Microsoft.Owin.xml
+E:\eman\mvc\task\task\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\eman\mvc\task\task\bin\Microsoft.Owin.Security.xml
+E:\eman\mvc\task\task\bin\Microsoft.Owin.Security.Facebook.xml
+E:\eman\mvc\task\task\bin\Microsoft.Owin.Security.Cookies.xml
+E:\eman\mvc\task\task\bin\Microsoft.Owin.Security.Google.xml
+E:\eman\mvc\task\task\bin\Microsoft.Owin.Security.Twitter.xml
+E:\eman\mvc\task\task\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\eman\mvc\task\task\bin\Microsoft.Owin.Security.OAuth.xml
+E:\eman\mvc\task\task\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\eman\mvc\task\task\obj\Debug\task.csprojAssemblyReference.cache
+E:\eman\mvc\task\task\obj\Debug\task.csproj.CopyComplete
+E:\eman\mvc\task\task\obj\Debug\task.dll
+E:\eman\mvc\task\task\obj\Debug\task.pdb
+E:\eman\mvc\task\task\obj\Debug\task.Migrations.InitialCreate.resources
+E:\eman\mvc\task\task\obj\Debug\task.csproj.GenerateResource.cache
+E:\eman\mvc\task\task\obj\Debug\task.Migrations.name.resources
+E:\eman\mvc\task\task\obj\Debug\task.Migrations.prod_cat.resources
+E:\eman\mvc\task\task\obj\Debug\task.Migrations.pic.resources
+E:\eman\mvc\task\task\obj\Debug\task.Migrations.listproduct.resources
+E:\shopping Task\eman shopping web site\task\task\bin\task.dll.config
+E:\shopping Task\eman shopping web site\task\task\bin\task.dll
+E:\shopping Task\eman shopping web site\task\task\bin\task.pdb
+E:\shopping Task\eman shopping web site\task\task\bin\roslyn\csc.exe
+E:\shopping Task\eman shopping web site\task\task\bin\roslyn\csc.exe.config
+E:\shopping Task\eman shopping web site\task\task\bin\roslyn\csc.rsp
+E:\shopping Task\eman shopping web site\task\task\bin\roslyn\csi.exe
+E:\shopping Task\eman shopping web site\task\task\bin\roslyn\csi.exe.config
+E:\shopping Task\eman shopping web site\task\task\bin\roslyn\csi.rsp
+E:\shopping Task\eman shopping web site\task\task\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\shopping Task\eman shopping web site\task\task\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\shopping Task\eman shopping web site\task\task\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\shopping Task\eman shopping web site\task\task\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\shopping Task\eman shopping web site\task\task\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\shopping Task\eman shopping web site\task\task\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\shopping Task\eman shopping web site\task\task\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\shopping Task\eman shopping web site\task\task\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\shopping Task\eman shopping web site\task\task\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\shopping Task\eman shopping web site\task\task\bin\roslyn\Microsoft.Managed.Core.targets
+E:\shopping Task\eman shopping web site\task\task\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\shopping Task\eman shopping web site\task\task\bin\roslyn\System.AppContext.dll
+E:\shopping Task\eman shopping web site\task\task\bin\roslyn\System.Collections.Immutable.dll
+E:\shopping Task\eman shopping web site\task\task\bin\roslyn\System.Console.dll
+E:\shopping Task\eman shopping web site\task\task\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\shopping Task\eman shopping web site\task\task\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\shopping Task\eman shopping web site\task\task\bin\roslyn\System.IO.Compression.dll
+E:\shopping Task\eman shopping web site\task\task\bin\roslyn\System.IO.FileSystem.dll
+E:\shopping Task\eman shopping web site\task\task\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\shopping Task\eman shopping web site\task\task\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\shopping Task\eman shopping web site\task\task\bin\roslyn\System.IO.Pipes.dll
+E:\shopping Task\eman shopping web site\task\task\bin\roslyn\System.Reflection.Metadata.dll
+E:\shopping Task\eman shopping web site\task\task\bin\roslyn\System.Security.AccessControl.dll
+E:\shopping Task\eman shopping web site\task\task\bin\roslyn\System.Security.Claims.dll
+E:\shopping Task\eman shopping web site\task\task\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\shopping Task\eman shopping web site\task\task\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\shopping Task\eman shopping web site\task\task\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\shopping Task\eman shopping web site\task\task\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\shopping Task\eman shopping web site\task\task\bin\roslyn\System.Security.Principal.Windows.dll
+E:\shopping Task\eman shopping web site\task\task\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\shopping Task\eman shopping web site\task\task\bin\roslyn\System.ValueTuple.dll
+E:\shopping Task\eman shopping web site\task\task\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\shopping Task\eman shopping web site\task\task\bin\roslyn\System.Xml.XmlDocument.dll
+E:\shopping Task\eman shopping web site\task\task\bin\roslyn\System.Xml.XPath.dll
+E:\shopping Task\eman shopping web site\task\task\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\shopping Task\eman shopping web site\task\task\bin\roslyn\vbc.exe
+E:\shopping Task\eman shopping web site\task\task\bin\roslyn\vbc.exe.config
+E:\shopping Task\eman shopping web site\task\task\bin\roslyn\vbc.rsp
+E:\shopping Task\eman shopping web site\task\task\bin\roslyn\VBCSCompiler.exe
+E:\shopping Task\eman shopping web site\task\task\bin\roslyn\VBCSCompiler.exe.config
+E:\shopping Task\eman shopping web site\task\task\bin\Antlr3.Runtime.dll
+E:\shopping Task\eman shopping web site\task\task\bin\EntityFramework.dll
+E:\shopping Task\eman shopping web site\task\task\bin\EntityFramework.SqlServer.dll
+E:\shopping Task\eman shopping web site\task\task\bin\Microsoft.AspNet.Identity.Core.dll
+E:\shopping Task\eman shopping web site\task\task\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\shopping Task\eman shopping web site\task\task\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\shopping Task\eman shopping web site\task\task\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\shopping Task\eman shopping web site\task\task\bin\Microsoft.Owin.dll
+E:\shopping Task\eman shopping web site\task\task\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\shopping Task\eman shopping web site\task\task\bin\Microsoft.Owin.Security.Cookies.dll
+E:\shopping Task\eman shopping web site\task\task\bin\Microsoft.Owin.Security.dll
+E:\shopping Task\eman shopping web site\task\task\bin\Microsoft.Owin.Security.Facebook.dll
+E:\shopping Task\eman shopping web site\task\task\bin\Microsoft.Owin.Security.Google.dll
+E:\shopping Task\eman shopping web site\task\task\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\shopping Task\eman shopping web site\task\task\bin\Microsoft.Owin.Security.OAuth.dll
+E:\shopping Task\eman shopping web site\task\task\bin\Microsoft.Owin.Security.Twitter.dll
+E:\shopping Task\eman shopping web site\task\task\bin\Microsoft.Web.Infrastructure.dll
+E:\shopping Task\eman shopping web site\task\task\bin\Newtonsoft.Json.dll
+E:\shopping Task\eman shopping web site\task\task\bin\Owin.dll
+E:\shopping Task\eman shopping web site\task\task\bin\System.Web.Helpers.dll
+E:\shopping Task\eman shopping web site\task\task\bin\System.Web.Mvc.dll
+E:\shopping Task\eman shopping web site\task\task\bin\System.Web.Optimization.dll
+E:\shopping Task\eman shopping web site\task\task\bin\System.Web.Razor.dll
+E:\shopping Task\eman shopping web site\task\task\bin\System.Web.WebPages.Deployment.dll
+E:\shopping Task\eman shopping web site\task\task\bin\System.Web.WebPages.dll
+E:\shopping Task\eman shopping web site\task\task\bin\System.Web.WebPages.Razor.dll
+E:\shopping Task\eman shopping web site\task\task\bin\WebGrease.dll
+E:\shopping Task\eman shopping web site\task\task\bin\System.Web.Helpers.xml
+E:\shopping Task\eman shopping web site\task\task\bin\System.Web.Mvc.xml
+E:\shopping Task\eman shopping web site\task\task\bin\System.Web.Optimization.xml
+E:\shopping Task\eman shopping web site\task\task\bin\System.Web.Razor.xml
+E:\shopping Task\eman shopping web site\task\task\bin\System.Web.WebPages.xml
+E:\shopping Task\eman shopping web site\task\task\bin\System.Web.WebPages.Deployment.xml
+E:\shopping Task\eman shopping web site\task\task\bin\System.Web.WebPages.Razor.xml
+E:\shopping Task\eman shopping web site\task\task\bin\Newtonsoft.Json.xml
+E:\shopping Task\eman shopping web site\task\task\bin\Antlr3.Runtime.pdb
+E:\shopping Task\eman shopping web site\task\task\bin\EntityFramework.xml
+E:\shopping Task\eman shopping web site\task\task\bin\EntityFramework.SqlServer.xml
+E:\shopping Task\eman shopping web site\task\task\bin\Microsoft.AspNet.Identity.Core.xml
+E:\shopping Task\eman shopping web site\task\task\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\shopping Task\eman shopping web site\task\task\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\shopping Task\eman shopping web site\task\task\bin\Microsoft.Owin.xml
+E:\shopping Task\eman shopping web site\task\task\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\shopping Task\eman shopping web site\task\task\bin\Microsoft.Owin.Security.xml
+E:\shopping Task\eman shopping web site\task\task\bin\Microsoft.Owin.Security.Facebook.xml
+E:\shopping Task\eman shopping web site\task\task\bin\Microsoft.Owin.Security.Cookies.xml
+E:\shopping Task\eman shopping web site\task\task\bin\Microsoft.Owin.Security.Google.xml
+E:\shopping Task\eman shopping web site\task\task\bin\Microsoft.Owin.Security.Twitter.xml
+E:\shopping Task\eman shopping web site\task\task\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\shopping Task\eman shopping web site\task\task\bin\Microsoft.Owin.Security.OAuth.xml
+E:\shopping Task\eman shopping web site\task\task\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\shopping Task\eman shopping web site\task\task\obj\Debug\task.csprojAssemblyReference.cache
+E:\shopping Task\eman shopping web site\task\task\obj\Debug\task.Migrations.InitialCreate.resources
+E:\shopping Task\eman shopping web site\task\task\obj\Debug\task.Migrations.name.resources
+E:\shopping Task\eman shopping web site\task\task\obj\Debug\task.Migrations.prod_cat.resources
+E:\shopping Task\eman shopping web site\task\task\obj\Debug\task.Migrations.pic.resources
+E:\shopping Task\eman shopping web site\task\task\obj\Debug\task.Migrations.listproduct.resources
+E:\shopping Task\eman shopping web site\task\task\obj\Debug\task.csproj.GenerateResource.cache
+E:\shopping Task\eman shopping web site\task\task\obj\Debug\task.csproj.CopyComplete
+E:\shopping Task\eman shopping web site\task\task\obj\Debug\task.dll
+E:\shopping Task\eman shopping web site\task\task\obj\Debug\task.pdb
